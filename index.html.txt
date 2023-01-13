@@ -1,0 +1,57 @@
+<!DOCTYPE>
+<html>
+  <head>
+
+ <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<div id="columns">
+  <figure>
+  <img src="https://phonoteka.org/uploads/posts/2022-09/1663337344_39-phonoteka-org-p-rei-yevangelion-art-krasivo-63.png">
+    <figcaption><b>Рей Аянами.</b> Первое дитя и назначенный пилот Евангелиона: <i>Модуля-00</i>.</figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://vignette.wikia.nocookie.net/evangelion/images/1/17/Pen_Pen.png/revision/latest">
+    <figcaption><b>Пен-Пен.</b> Тепловодный пингвин и домашнее животное/сосед Мисато.</figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://i.pinimg.com/736x/d9/1d/25/d91d25e8a2d367aea26f2894f6cecaa8.jpg">
+    <figcaption><b>Рёдзи Кадзи.</b> Тройной агент и бывший любовник Мисато.</figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://i.pinimg.com/originals/37/d5/b9/37d5b9d23ebddef218d4dcee17a9f579.png">
+    <figcaption><b>Синдзи Икари.</b> Назначенный пилот Евангелиона: <i>Модуля-01</i>, третье дитя.</figcaption>
+  </figure>
+  
+   <figure>
+   <img src="https://upload.wikimedia.org/wikipedia/ru/2/2a/Гэндо_Икари.jpg">
+     <figcaption><b>Гэндо Икари.</b> Командующий <i>Nerv</i> и отец Синдзи.</figcaption>
+  </figure>
+  
+   <figure>
+   <img src="https://i.pinimg.com/originals/ab/54/95/ab5495fa160655d4a4917245b2848c83.jpg">
+     <figcaption><b>Мисато Кацураги.</b> Командир тактических операций <i>Nerv</i> и опекун Синдзи. </figcaption>
+  </figure>
+  
+  <figure>
+  <img src="https://c.wallhere.com/photos/80/8d/Neon_Genesis_Evangelion-1377515.jpg!d">
+    <figcaption><b>Аска Лэнгли Сорью.</b> Второе дитя и пилот Евангелиона: <i>Модуля-02.</i></figcaption>
+  </figure> 
+  
+   <figure>
+  <img src="https://i.pinimg.com/originals/48/d8/c6/48d8c6b1055ad43edfe3130393a4cd6d.png">
+     <figcaption><b>Каору Нагиса.</b> Пятое дитя... и последний <i>Ангел</i>.</figcaption>
+  </figure>
+ 
+    <figure>
+  <img src="https://data.cyclowiki.org/images/3/38/Рицуко_Акаги.jpg">
+      <figcaption><b>Рицуко Акаги.</b> Руководитель проекта «E» и главный учёный <i>Nerv</i>.</figcaption>
+    </figure> 
+  </div>
+  <small>ВИКИ &copy; <a href="https://evangelion.fandom.com/wiki/Main_Page">
+Evangelion</a></small>
+  </body>
+</html>
